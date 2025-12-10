@@ -1,0 +1,2 @@
+# Sales-Analysis-on-Sneakers-and-Streetwear-Products-Milestone-2-
+Repository ini merupakan salah satu project milestones yang dilakukan di Bootcamp Hacktiv8. Project ini memperlihatkan studi kasus data analysis menggunakan statistik deskriptif dan inferential untuk mencari trends, pola performansi, dan bisnis insight. Project ini juga memperlihatkan dasboard data visualisasi dengan menggunakan Tableau.
